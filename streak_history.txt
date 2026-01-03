@@ -5,3 +5,4 @@
 [2026-01-02T14:34:22] JavaScript practice exercise #1
 [2026-01-03T08:34:11] JavaScript practice exercise #1
 [2026-01-03T08:35:27] JavaScript practice exercise #2
+[2026-01-03T08:36:58] JavaScript practice exercise #3
