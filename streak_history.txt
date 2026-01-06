@@ -24,3 +24,4 @@
 [2026-01-05T10:27:30] JavaScript practice exercise #2
 [2026-01-05T14:33:05] JavaScript practice exercise #3
 [2026-01-05T16:36:06] JavaScript practice exercise #4
+[2026-01-06T08:06:03] JavaScript practice exercise #1
