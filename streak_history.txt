@@ -160,3 +160,4 @@
 [2026-02-06T10:13:37] JavaScript practice exercise #1
 [2026-02-07T11:00:29] JavaScript practice exercise #1
 [2026-02-07T11:44:44] JavaScript practice exercise #2
+[2026-02-07T12:05:08] JavaScript practice exercise #3
