@@ -190,3 +190,4 @@
 [2026-02-14T09:18:04] JavaScript practice exercise #1
 [2026-02-14T09:24:34] JavaScript practice exercise #2
 [2026-02-14T10:59:38] JavaScript practice exercise #3
+[2026-02-14T12:58:26] JavaScript practice exercise #4
