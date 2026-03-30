@@ -403,3 +403,4 @@
 [2026-03-30T10:13:22] JavaScript practice exercise #2
 [2026-03-30T12:18:47] JavaScript practice exercise #3
 [2026-03-30T12:38:57] JavaScript practice exercise #4
+[2026-03-30T17:30:05] JavaScript practice exercise #5
