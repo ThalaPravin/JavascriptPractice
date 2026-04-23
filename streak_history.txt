@@ -497,3 +497,4 @@
 [2026-04-23T21:04:30] JavaScript practice exercise #1
 [2026-04-23T22:03:51] JavaScript practice exercise #2
 [2026-04-23T22:07:16] JavaScript practice exercise #3
+[2026-04-23T22:39:11] JavaScript practice exercise #4
