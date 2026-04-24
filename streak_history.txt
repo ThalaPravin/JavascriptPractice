@@ -501,3 +501,4 @@
 [2026-04-24T09:19:47] JavaScript practice exercise #1
 [2026-04-24T10:45:31] JavaScript practice exercise #2
 [2026-04-24T12:45:39] JavaScript practice exercise #3
+[2026-04-24T14:41:03] JavaScript practice exercise #4
