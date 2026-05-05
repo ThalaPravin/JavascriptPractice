@@ -565,3 +565,4 @@
 [2026-05-04T21:48:00] JavaScript practice exercise #4
 [2026-05-05T12:24:05] JavaScript practice exercise #1
 [2026-05-05T12:34:02] JavaScript practice exercise #2
+[2026-05-05T17:47:32] JavaScript practice exercise #3
