@@ -1200,3 +1200,4 @@
 [2026-09-12T14:23:25] JavaScript practice exercise #8
 [2026-09-12T16:24:08] JavaScript practice exercise #9
 [2026-09-12T19:46:50] JavaScript practice exercise #10
+[2026-09-12T20:23:05] JavaScript practice exercise #11
