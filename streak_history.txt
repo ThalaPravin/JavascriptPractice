@@ -1238,3 +1238,4 @@
 [2026-09-19T10:20:07] JavaScript practice exercise #5
 [2026-09-19T10:26:33] JavaScript practice exercise #6
 [2026-09-19T10:59:21] JavaScript practice exercise #7
+[2026-09-19T13:28:33] JavaScript practice exercise #8
